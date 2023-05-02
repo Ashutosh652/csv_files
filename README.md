@@ -13,7 +13,7 @@ NepalAgriStats.csv code description:
 <br/>
 <br/>
 <br/>
-Climate data code description:
+climate_data code description:
     PRECTOT: MERRA2 1/2x1/2 Precipitation (mm day-1)<br/>
     PS: MERRA2 1/2x1/2 Surface Pressure (kPa)<br/>
     QV2M: MERRA2 1/2x1/2 Specific Humidity at 2 Meters (g/kg)<br/>
